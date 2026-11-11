@@ -4,7 +4,7 @@
 **Estudiante:** Joel Julio Salazar Ferrufino
 
 ## Descripción
-Proyecto de ingesta, modelado, auditoría de calidad y análisis del dataset **Superstore** (ventas minoristas de EE. UU., 2014–2017) con **Apache Hive 3.1** sobre un clúster Hadoop en Docker. Se resuelven 8 preguntas analíticas con HiveQL (CTE, funciones de ventana, rankings, RFM, Pareto) y se analiza la optimización de las consultas.
+Análisis del dataset **Superstore**  con **Apache Hive 3.1** sobre un clúster Hadoop en Docker. Se resuelven 8 preguntas analíticas con HiveQL (CTE, funciones de ventana, rankings, RFM, Pareto) y se analiza la optimización de las consultas.
 
 ## Objetivos
 - Modelar e implementar el almacenamiento del dataset en Hive con tipos adecuados.
